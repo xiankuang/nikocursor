@@ -1,14 +1,14 @@
 # 适用系统
 - Windows
 # 光标预览
-![image](Images/Preview.gif)
+![image](image/niko.gif)
 # 光标版本
  - nikocursor1X
  1倍缩放，对应最小尺寸光标，视觉效果较为模糊
 - nikocursor4X
 4倍缩放，视觉效果较为清晰，暂无
 # 安装方法
-- 下载[xtcursor1X.zip](https://github.com/xiankuang/xkxkcursor/releases/latest/download/xtcursor1X.zip)或[xtcursor4X.zip](https://github.com/xiankuang/xkxkcursor/releases/latest/download/xtcursor4X.zip)
+- 下载[
 - 使用解压软件将其解压
 - 打开文件夹
 - 右键setup.inf，在打开的选项卡中，选择“安装”选项。
