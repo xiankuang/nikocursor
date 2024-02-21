@@ -17,4 +17,4 @@ Don't forget to give XianKuang a follow!
 - [BiliBili](https://space.bilibili.com/400839602)
 - [X](https://twitter.com/xiankuangxk)
 # LICENSE
-[MIT](LICENSE.txt)
+[MIT]([LICENSE.txt](https://github.com/xiankuang/tjcursor/blob/main/LICENSE.txt)https://github.com/xiankuang/tjcursor/blob/main/LICENSE.txt)
