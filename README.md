@@ -18,4 +18,4 @@
 - [BiliBili](https://space.bilibili.com/400839602)
 - [X](https://twitter.com/xiankuangxk)
 # 开源许可证
-[MIT]([LICENSE.txt](https://github.com/xiankuang/tjcursor/blob/main/LICENSE.txt)https://github.com/xiankuang/tjcursor/blob/main/LICENSE.txt)
+[MIT](https://github.com/xiankuang/tjcursor/blob/main/LICENSE.txt)
