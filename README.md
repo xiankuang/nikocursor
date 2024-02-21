@@ -1,3 +1,4 @@
+[The English version is here](readme-English.md)
 # 适用系统
 - Windows
 # 光标预览
