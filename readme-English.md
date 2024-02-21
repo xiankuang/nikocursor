@@ -8,7 +8,7 @@
 ~- nikocursor4X
   4x zoom, the visual effect is clearer~
 # Installation
-- Download [nikocursor1X.zip](https://github.com/xiankuang/nikocursor/releases/latest/download/nikocursor1X.zip)
+- Download [nikocursor1X.zip](https://github.com/xiankuang/nikocursor/tree/main/niko1X)
 - Unzip it
 - Open the folder
 - Right-click on setup.inf, and in the tab that opens, select the "Install" option.
