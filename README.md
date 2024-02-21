@@ -9,7 +9,7 @@
 - nikocursor4X
 4倍缩放，视觉效果较为清晰，暂无
 # 安装方法
-- 下载[niko1X](https://github.com/xiankuang/nikocursor/tree/main/niko1X)
+- 下载[niko1X](https://github.com/xiankuang/nikocursor/releases/download/untagged-64482fc9e89528e4993a/niko1X.zip)
 - 使用解压软件将其解压
 - 打开文件夹
 - 右键setup.inf，在打开的选项卡中，选择“安装”选项。
